@@ -1,7 +1,14 @@
 # gas-ts-decorator-problem
 
-## reproduce steps
+## reproduce steps(easy)
 
+1. `npm install`
+1. `npm run build`
+1. copy everything in `dist/index.js`
+1. create new gas on script.google.com, pasete above code
+1. choose main & execute
+
+## reproduce steps(precise)
 ### on local
 
 1. `npm install`
