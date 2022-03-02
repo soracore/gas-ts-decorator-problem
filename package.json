@@ -5,6 +5,7 @@
     "author": "<>",
     "license": "MIT",
     "scripts": {
+      "clasp": "clasp",
       "build": "rimraf dist && webpack && cpx appsscript.json dist"
     },
     "dependencies": {
